@@ -1,0 +1,42 @@
+{
+    "name": "Smurf NFT X",
+    "symbol": "",
+    "description": "Celebratory Solflare NFT for the Solflare X launch",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "SmurfNFT X NFT",
+       "family": "Smurfy"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "79DuNh1gYBeKaE28qaBSdysYp6hKc3Xe4oBBTM9W3dPL",
+          "share": 100
+        }
+      ]
+    }
+  }
